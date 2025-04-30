@@ -1,62 +1,44 @@
-# 👋 Hi there, I'm Vijaylaxmi Hanamshetty
-
-🎯 **Aspiring Backend Developer**  
-🔧 Python | FastAPI | Django | PostgreSQL
+# Vijaylaxmi Hanamshetty 🌱  
+**Aspiring Backend Developer | Builder at Heart**
 
 ---
 
-## 💡 About Me
+I’m a backend developer focused on building **scalable**, **secure**, and **well-crafted** systems. Since 2023, I’ve been writing code with a deep curiosity for how things work behind the scenes — building projects that connect ideas with functionality.
 
-I’m a backend developer passionate about crafting **clean**, **scalable**, and **secure** APIs.  
-I enjoy building robust backend systems that follow modern best practices and are easy to maintain.
+I’m passionate about designing clean APIs, architecting backend systems with clarity, and learning the principles that make software both usable and maintainable.
 
-I love working with frameworks like **FastAPI** and **Django**, and I'm always eager to learn, collaborate, and grow as a developer. Whether it's designing a RESTful API, optimizing a database query, or deploying services with Docker, I’m constantly exploring better ways to build and ship quality software.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-- 🐍 Python
-
-**Frameworks & Libraries**  
-- ⚡ FastAPI  
-- 🌐 Django  
-- 🔧 Django REST Framework (DRF)
-
-**Databases**  
-- 🐘 PostgreSQL  
-- 🗂️ SQLite
-
-**Tools & Platforms**  
-- 🧰 Git & GitHub  
-- 💻 Visual Studio Code  
-- 🐳 Docker & Docker Compose
+Right now, I’m exploring how backend technologies like **FastAPI**, **Django**, and **Docker** can power meaningful digital experiences. Whether I’m working on a REST API or experimenting with database optimization, I’m guided by a mindset of **continuous learning** and **thoughtful development**.
 
 ---
 
-## 🚀 What I’m Working On
+## 🔍 Highlights
 
-- 🚧 Developing self-driven backend projects using **FastAPI** and **Django**
-- 🔐 Diving deeper into **advanced Python** and **API security**
-- 📦 Mastering **Docker** for containerized backend deployment
-- 🤝 Getting ready to **contribute to open-source** communities
-
----
-
-## 🤝 Let’s Connect
-
-📍 **Location:** Bidar, Karnataka, India  
-📧 **Email:** [vijaylaxmihanamshetty38@gmail.com](mailto:vijaylaxmihanamshetty38@gmail.com)
-
-I'm always open to new opportunities, learning experiences, and collaborative projects.  
-Let’s build something amazing together! 🙌
+🛠️ Currently building self-driven backend projects using FastAPI & Django  
+🔐 Diving into API security and advanced Python programming  
+⚙️ Exploring containerization and deployment with Docker  
+💡 Preparing to contribute to open-source projects and collaborative teams  
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my projects and drop a message if you'd like to connect.*
+## 🌐 Follow Me
 
+💼 **LinkedIn:** [linkedin.com/in/vijaylaxmi-hanamshetty](https://linkedin.com/in/vijaylaxmi-hanamshetty)  
+💬 **GitHub:** [@vijaylaxmihanamshetty](https://github.com/vijaylaxmihanamshetty)
 
+---
+
+## 🧭 Long-Term Goal
+
+To become a thoughtful backend engineer who not only writes great code but also contributes to **human-first** products that are secure, scalable, and impactful.
+
+---
+
+**“Build foundations with care. Learn deeply. Grow through code.”** ✨
+
+---
+
+📍 Based in Bidar, Karnataka, India  
+📧 [vijaylaxmihanamshetty38@gmail.com](mailto:vijaylaxmihanamshetty38@gmail.com)
 
 
 
