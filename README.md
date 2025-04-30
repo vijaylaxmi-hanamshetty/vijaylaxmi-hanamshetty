@@ -1,40 +1,40 @@
+👋 Hi, I'm Vijaylaxmi Hanamshetty
+🎯 Aspiring Backend Developer passionate about building clean, scalable, and secure APIs using Python, FastAPI, and Django.
 
-Hi, I'm Vijaylaxmi Hanamshetty 👩‍💻
+👩‍💻 About Me
+Hi, I'm Vijaylaxmi — a backend developer focused on crafting robust server-side applications. I work with modern backend technologies and enjoy building systems that are efficient, well-documented, and scalable. Let's connect and build something awesome together!
 
-🔧 Aspiring Backend Developer | Passionate About Scalable, Secure, and Efficient APIs
-
-As a backend developer, I specialize in creating high-performance, scalable, and secure server-side applications using modern technologies. With a strong foundation in Python and frameworks like FastAPI and Django, I aim to build APIs that not only serve business needs but also excel in performance and maintainability.
-
-🚀 What I Do
-
-Design & Develop Robust APIs: Whether it's optimizing database performance, ensuring security, or building RESTful services, I am committed to delivering clean, maintainable, and efficient backend systems.
-
-Continuous Learning: I am always exploring new ways to optimize server-side architectures, diving into advanced Python concepts, exploring database optimization, and fine-tuning API security.
-
-Open-Source Contributions: Actively preparing to contribute to open-source backend projects to give back to the community.
-
-🛠 Technologies I Use
-
+🛠️ Technologies I Work With
 Languages: Python
 
 Frameworks: FastAPI, Django, Django REST Framework
 
 Databases: SQLite, PostgreSQL
 
-Tools: Git, GitHub, Docker, Docker Compose, VS Code
+Tools: Git, GitHub, VS Code, Docker & Docker Compose
 
-🌍 Why Connect With Me?
+🚀 What I’m Currently Working On
+Developing self-driven projects using FastAPI and Django REST Framework
 
-I’m passionate about collaborating on real-world projects and love connecting with others who share the same enthusiasm for backend development.
+Learning advanced Python, database optimization, and API security
 
-I emphasize writing clean, scalable, and secure code that meets business objectives while being easy to maintain.
+Exploring Docker for containerized backend deployments
 
-I believe in continuous growth and sharing knowledge, whether through mentoring, open-source contributions, or collaborative learning.
+Preparing to contribute to open-source backend projects
 
-📍 Location: Bidar, Karnataka, India
-📧 Email: vijaylaxmihanamshetty38@gmail.com
+🤝 Why Connect With Me?
+I'm enthusiastic about backend development and always eager to collaborate on real-world projects
 
-Let’s build something awesome together! Feel free to reach out — I’m always open to new challenges and connections. 🙌
+I bring a strong commitment to writing clean, maintainable code
+
+I'm continuously growing my skill set and love sharing knowledge with others
+
+📫 Let’s Connect
+📍 Based in Bidar, Karnataka, India
+
+📧 vijaylaxmihanamshetty38@gmail.com
+
+Thanks for stopping by — feel free to connect or message me anytime! 🙌
 
 
 
