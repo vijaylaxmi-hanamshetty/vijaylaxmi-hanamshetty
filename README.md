@@ -15,14 +15,13 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, HTML
+- **Languages:** Python,  HTML
 - **Frameworks:** FastAPI, Django, Django REST Framework
 - **Tools:** Git, GitHub, Postman, VS Code, **Docker & Docker Compose**
 - **Databases:** SQLite, PostgreSQL
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for visiting! 🙌
 
