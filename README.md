@@ -1,31 +1,39 @@
- # 👋 Hi there, I'm Vijaylaxmi Hanamshetty
+👋 Hi, I'm Vijaylaxmi Hanamshetty
+🎯 Aspiring Backend Developer passionate about building clean, scalable, and secure APIs using Python, FastAPI, and Django.
 
-🎯 **Aspiring Backend Developer** focused on building clean, scalable APIs using **Python**, **FastAPI**, and **Django**.
+👩‍💻 About Me
+Hi, I'm Vijaylaxmi — a backend developer focused on crafting robust server-side applications. I work with modern backend technologies and enjoy building systems that are efficient, well-documented, and scalable. Let's connect and build something awesome together!
 
----
+🛠️ Technologies I Work With
+Languages: Python
 
-### 👩‍💻 About Me
+Frameworks: FastAPI, Django, Django REST Framework
 
-- 🔭 I’m currently working on personal backend projects with Django & FastAPI  
-- 🌱 I’m learning advanced Python, database optimization, and API security best practices  
-- 🤝 I’m looking to collaborate on open-source Python backend projects  
-- 📌 Based in **Bidar, Karnataka, India**
+Databases: SQLite, PostgreSQL
 
----
+Tools: Git, GitHub, VS Code, Docker & Docker Compose
 
-### 🛠️ Tech Stack
+🚀 What I’m Currently Working On
+Developing self-driven projects using FastAPI and Django REST Framework
 
-- **Languages:** Python  
-- **Frameworks:** FastAPI, Django, Django REST Framework  
-- **Tools:** Git, GitHub, VS Code, **Docker & Docker Compose**  
-- **Databases:** SQLite, PostgreSQL
+Learning advanced Python, database optimization, and API security
 
----
+Exploring Docker for containerized backend deployments
 
-### 📫 Contact Me
+Preparing to contribute to open-source backend projects
 
-- 📧 [vijaylaxmihanamshetty38@gmail.com](mailto:vijaylaxmihanamshetty38@gmail.com)
+🤝 Why Connect With Me?
+I'm enthusiastic about backend development and always eager to collaborate on real-world projects
 
----
+I bring a strong commitment to writing clean, maintainable code
 
-Thanks for visiting! 🙌
+I'm continuously growing my skill set and love sharing knowledge with others
+
+📫 Let’s Connect
+📍 Based in Bidar, Karnataka, India
+
+📧 vijaylaxmihanamshetty38@gmail.com
+
+Thanks for stopping by — feel free to connect or message me anytime! 🙌
+
+
