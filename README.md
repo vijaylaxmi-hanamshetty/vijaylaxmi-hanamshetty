@@ -15,7 +15,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python,  HTML
+- **Languages:** Python 
 - **Frameworks:** FastAPI, Django, Django REST Framework
 - **Tools:** Git, GitHub, Postman, VS Code, **Docker & Docker Compose**
 - **Databases:** SQLite, PostgreSQL
