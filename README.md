@@ -1,40 +1,36 @@
-👋 Hi, I'm Vijaylaxmi Hanamshetty
-🎯 Aspiring Backend Developer passionate about building clean, scalable, and secure APIs using Python, FastAPI, and Django.
+👋 Hi, I’m Vijaylaxmi Hanamshetty
+🎯 Aspiring Backend Developer | Python | FastAPI | Django
 
-👩‍💻 About Me
-Hi, I'm Vijaylaxmi — a backend developer focused on crafting robust server-side applications. I work with modern backend technologies and enjoy building systems that are efficient, well-documented, and scalable. Let's connect and build something awesome together!
+💡 About Me
+I’m a backend developer passionate about building clean, scalable, and secure APIs. I enjoy working with modern tools to create efficient and well-documented backend systems.
 
-🛠️ Technologies I Work With
+🛠️ Tech Stack
+
 Languages: Python
 
 Frameworks: FastAPI, Django, Django REST Framework
 
-Databases: SQLite, PostgreSQL
+Databases: PostgreSQL, SQLite
 
-Tools: Git, GitHub, VS Code, Docker & Docker Compose
+Tools: Git, GitHub, VS Code, Docker, Docker Compose
 
-🚀 What I’m Currently Working On
-Developing self-driven projects using FastAPI and Django REST Framework
+🚀 Currently Working On
 
-Learning advanced Python, database optimization, and API security
+Building self-driven projects with FastAPI & Django
 
-Exploring Docker for containerized backend deployments
+Learning advanced Python and API security
 
-Preparing to contribute to open-source backend projects
+Exploring Docker for backend deployment
 
-🤝 Why Connect With Me?
-I'm enthusiastic about backend development and always eager to collaborate on real-world projects
+Preparing to contribute to open-source projects
 
-I bring a strong commitment to writing clean, maintainable code
+🤝 Let’s Connect
 
-I'm continuously growing my skill set and love sharing knowledge with others
-
-📫 Let’s Connect
-📍 Based in Bidar, Karnataka, India
+📍 Bidar, Karnataka, India
 
 📧 vijaylaxmihanamshetty38@gmail.com
 
-Thanks for stopping by — feel free to connect or message me anytime! 🙌
+Always open to collaboration, learning, and sharing knowledge. Thanks for visiting! 🙌
 
 
 
