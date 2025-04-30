@@ -17,8 +17,8 @@ I'm a dedicated **Backend Developer** passionate about building **clean**, **sca
 
 ## 🌐 Let's Connect
 
-- 📧 **Email:** [vijaylaxmihanamshettty@gmail.com](mailto:vijaylaxmihanamshettty@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/vijaylaxmi-hanamshetty](https://linkedin.com/in/vijaylaxmi-hanamshetty)  
+- 📧 **Email:** [vijaylaxmihanamshettty38@gmail.com](mailto:vijaylaxmihanamshettty@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/vijaylaxmi-hanamshetty](https://www.linkedin.com/in/vijaylaxmi-hanamshetty-6b0b72255/)
 - 💻 **GitHub:** [github.com/VIjaylaxmi-hanamshetty](https://github.com/VIjaylaxmi-hanamshetty)
 
 
