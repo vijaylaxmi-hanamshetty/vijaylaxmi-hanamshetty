@@ -1,40 +1,39 @@
-# Vijaylaxmi Hanamshetty 🌱  
-**Aspiring Backend Developer**
+# 👋 Hi, I'm Vijaylaxmi Hanamshetty
+
+### 💻 Backend Developer | 🐍 Python Enthusiast
+
+I'm a dedicated **Backend Developer** passionate about building **clean**, **scalable**, and **efficient** APIs using **Django REST Framework** and **FastAPI**. With a focus on writing optimized code, designing serializers, and working with modern tools like Docker Compose, I love solving real-world problems through technology.
 
 ---
 
-I’m passionate about building **scalable**, **secure**, and **well-crafted** backend systems. Since 2023, I’ve been honing my skills with **FastAPI**, **Django**, and **Docker** to create efficient and meaningful software solutions.
+## 🧰 Tech Stack
+
+- **Languages:** Python  
+- **Frameworks:** Django, FastAPI, Django REST Framework  
+- **Tools:** Git & GitHub, Docker Compose  
+- **Core Focus:** RESTful APIs • Serializer Design
 
 ---
 
-## 🛠️ Currently Working On
+## 🌐 Let's Connect
 
-- Building backend projects with **FastAPI** & **Django**  
-- Exploring **API security** and **advanced Python**  
-- Learning **Docker** for containerized deployment  
-- Preparing to contribute to **open-source** projects
-
----
-
-## 🌐 Let’s Connect
-
-- **LinkedIn:** [vijaylaxmi-hanamshetty](https://linkedin.com/in/vijaylaxmi-hanamshetty)  
-- **GitHub:** [@vijaylaxmihanamshetty](https://github.com/vijaylaxmihanamshetty)  
-- **Email:** [vijaylaxmihanamshetty38@gmail.com](mailto:vijaylaxmihanamshetty38@gmail.com)
+- 📧 **Email:** [vijaylaxmihanamshettty@gmail.com](mailto:vijaylaxmihanamshettty@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/vijaylaxmi-hanamshetty](https://linkedin.com/in/vijaylaxmi-hanamshetty)  
+- 💻 **GitHub:** [github.com/VIjaylaxmi-hanamshetty](https://github.com/VIjaylaxmi-hanamshetty)
 
 ---
 
-## 🎯 Long-Term Goal
+## ✨ About Me
 
-To become a backend engineer who builds **secure** and **scalable** systems with a focus on **impact**.
+> 💡 I believe in **learning by doing** and constantly push myself to improve.
+
+I enjoy collaborating with **backend developers** to solve complex problems and create meaningful solutions. My focus is on **optimizing backend systems**, ensuring high performance, and delivering well-structured code. I’m always open to feedback and strive for **continuous improvement**.
+
+I am passionate about **exploring new technologies**, building **scalable solutions**, and sharing knowledge with my team.
 
 ---
 
-**“Build with care. Learn every day. Code with purpose.”** ✨
-
----
-
-📍 **Location:** Bidar, Karnataka, India
+### ⚙️ *Let’s build something impactful — one backend at a time!*
 
 
 
