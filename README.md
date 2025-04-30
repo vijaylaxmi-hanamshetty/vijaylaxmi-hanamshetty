@@ -4,7 +4,7 @@
 
 I'm a dedicated **Backend Developer** passionate about building **clean**, **scalable**, and **efficient** APIs using **Django REST Framework** and **FastAPI**. With a focus on writing optimized code, designing serializers, and working with modern tools like Docker Compose, I love solving real-world problems through technology.
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -13,7 +13,7 @@ I'm a dedicated **Backend Developer** passionate about building **clean**, **sca
 - **Tools:** Git & GitHub, Docker Compose  
 - **Core Focus:** RESTful APIs • Serializer Design
 
----
+
 
 ## 🌐 Let's Connect
 
@@ -31,7 +31,7 @@ I enjoy collaborating with **backend developers** to solve complex problems and 
 
 I am passionate about **exploring new technologies**, building **scalable solutions**, and sharing knowledge with my team.
 
----
+
 
 ### ⚙️ *Let’s build something impactful — one backend at a time!*
 
