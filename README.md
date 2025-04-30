@@ -21,7 +21,7 @@ I'm a dedicated **Backend Developer** passionate about building **clean**, **sca
 - 🔗 **LinkedIn:** [linkedin.com/in/vijaylaxmi-hanamshetty](https://linkedin.com/in/vijaylaxmi-hanamshetty)  
 - 💻 **GitHub:** [github.com/VIjaylaxmi-hanamshetty](https://github.com/VIjaylaxmi-hanamshetty)
 
----
+
 
 ## ✨ About Me
 
