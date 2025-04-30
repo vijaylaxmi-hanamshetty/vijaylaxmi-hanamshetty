@@ -1,36 +1,55 @@
-👋 Hi, I’m Vijaylaxmi Hanamshetty
-🎯 Aspiring Backend Developer | Python | FastAPI | Django
+# 👋 Hi, I’m Vijaylaxmi Hanamshetty
 
-💡 About Me
-I’m a backend developer passionate about building clean, scalable, and secure APIs. I enjoy working with modern tools to create efficient and well-documented backend systems.
+🎯 **Aspiring Backend Developer**  
+🔧 Python | FastAPI | Django
 
-🛠️ Tech Stack
+---
 
-Languages: Python
+## 💡 About Me
 
-Frameworks: FastAPI, Django, Django REST Framework
+I’m a backend developer passionate about building **clean**, **scalable**, and **secure** APIs. I enjoy working with modern tools to create efficient and well-documented backend systems.
 
-Databases: PostgreSQL, SQLite
+---
 
-Tools: Git, GitHub, VS Code, Docker, Docker Compose
+## 🛠️ Tech Stack
 
-🚀 Currently Working On
+**Languages**  
+- Python
 
-Building self-driven projects with FastAPI & Django
+**Frameworks & Libraries**  
+- FastAPI  
+- Django  
+- Django REST Framework
 
-Learning advanced Python and API security
+**Databases**  
+- PostgreSQL  
+- SQLite
 
-Exploring Docker for backend deployment
+**Tools & Platforms**  
+- Git, GitHub  
+- VS Code  
+- Docker, Docker Compose
 
-Preparing to contribute to open-source projects
+---
 
-🤝 Let’s Connect
+## 🚀 Currently Working On
 
-📍 Bidar, Karnataka, India
+- Building self-driven projects using FastAPI & Django  
+- Learning advanced Python and API security  
+- Exploring Docker for backend deployment  
+- Preparing to contribute to open-source projects
 
-📧 vijaylaxmihanamshetty38@gmail.com
+---
 
-Always open to collaboration, learning, and sharing knowledge. Thanks for visiting! 🙌
+## 🤝 Let’s Connect
+
+📍 Bidar, Karnataka, India  
+📧 [vijaylaxmihanamshetty38@gmail.com](mailto:vijaylaxmihanamshetty38@gmail.com)
+
+I'm always open to **collaboration**, **learning**, and **sharing knowledge**.  
+Thanks for visiting! 🙌
+
+---
 
 
 
